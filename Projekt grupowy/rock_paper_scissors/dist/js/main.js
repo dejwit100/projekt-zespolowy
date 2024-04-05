@@ -1,3 +1,4 @@
+//UWU
 import GameObj from "./game.js";
 const Game = new GameObj();
 
